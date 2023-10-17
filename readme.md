@@ -101,6 +101,6 @@ Contributions to enhance or extend the X-Synergy project are welcome! Feel free 
 
 ## Acknowledgements
 
-Special thanks to the creators and instructors of the technologies used in this project.
+Special thanks to the instructors & creators of the technologies used in this project.
 
 ---
